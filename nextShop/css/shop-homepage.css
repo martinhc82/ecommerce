@@ -1,8 +1,9 @@
 body {
-  padding-top: 56px;
+  padding: 0px;
+  margin: 0px;
 }
 
 .img-logo{
-  width: 25vw;
+  width: 20vw;
   height: auto;
 }
